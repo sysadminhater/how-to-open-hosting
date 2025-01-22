@@ -1,0 +1,19 @@
+<script>
+    async function languageRedirect() {
+        try {
+            const response = await fetch(window.location.protocol + '//pages.dev/cdn-cgi/trace');
+            const responseText = await response.text();
+            const countryCodeMatch = responseText.match(/loc=([A-Za-z0-9]+)/);
+            if (countryCodeMatch && countryCodeMatch[1] == "VN") {
+                window.location.href = '{{ site.baseurl }}/vi';
+            }
+            else {
+                window.location.href = '{{ site.baseurl }}/en';
+            }
+        }
+        catch (error) {
+            window.location.href = '{{ site.baseurl }}/en?error=true';
+        }
+    }
+    languageRedirect();
+</script>
