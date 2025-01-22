@@ -2,6 +2,8 @@
 layout: page
 ---
 
+<!-- DONT FUCKING REMOVE THIS -->
+
 ### Hướng Dẫn Mở Hosting Minecraft Tại Việt Nam – Con Đường Dẫn Đến Sự "Thành Công" Nhanh Chóng (Nếu Bạn Biết Cách Bỏ Qua Mọi Cái Gọi Là Đạo Đức) 
 
 **Một mét vuông 10 hosting.**
