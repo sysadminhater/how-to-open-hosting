@@ -27,9 +27,9 @@ Còn nếu bạn định chọn phương án đi xin hay ăn trộm… thì, ừ
 
 ### 2. Mua Node
 
-Bạn có nghĩ rằng những hosting lớn như Asaka, DPT dùng máy móc gì đắt đỏ?
+Bạn có nghĩ rằng những hosting lớn như DPT, Gachcloud, Pikamc v.v dùng máy móc gì đắt đỏ?
 
-Không đâu, họ chỉ không biết tiết kiệm thôi. Bạn có thể đạt được hiệu năng “gần như thế” với mấy combo X99 trên Shopee.
+Không đâu, do không biết tiết kiệm thôi. Bạn có thể đạt được hiệu năng “gần như thế” với mấy combo X99 trên Shopee.
 
 Chỉ cần bỏ ra khoảng 1tr2 để mua một combo mainboard “huyền thoại”, thêm RAM, tản nhiệt và ổ cứng cũ. Nhớ chọn nguồn PSU mà các bài review gọi là “sống dai như đỉa,” vì nó không chết ngay cả khi quá tải gấp đôi công suất.
 
