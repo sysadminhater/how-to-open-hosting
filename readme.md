@@ -2,11 +2,11 @@
 
 **Một mét vuông 10 hosting.**
 
-**Bài viết này mang tính mất dạy xàm xí lẫn một chút châm biếm, cân nhắc trước khi xem, chúng tôi không nhận gạch đá từ những người tỏ vẻ nghiêm túc.**
+**Bài viết này mang tính mất dạy xàm xí lẫn một chút châm biếm, cân nhắc trước khi xem, chúng tôi nhận đủ loại gạch đá để xây mộ đắp cho bạn nằm sau khi bạn cãi xong.**
 
 ---
 
-Chắc hẳn bạn đang nghĩ rằng việc mở một hosting Minecraft ở Việt Nam sẽ là một cơ hội vàng để trở thành triệu phú trong nháy mắt?. Đừng lo, tôi sẽ chỉ cho bạn cách để bắt đầu hành trình này.
+Chắc hẳn bạn đang nghĩ rằng việc mở một hosting Minecraft ở Việt Nam sẽ là một cơ hội vàng để trở thành triệu phú trong nháy mắt? Đừng lo, tôi sẽ chỉ cho bạn cách để bắt đầu hành trình này.
 
 Cho dù bạn có biết gì về kỹ thuật hay tâm lý học khách hàng không, tất cả những gì bạn cần là một chút tiền, một ít sự mặt dày, và thậm chí là một chút nghệ thuật lùa gà – bạn sẽ thành công.
 
