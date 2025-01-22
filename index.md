@@ -24,7 +24,7 @@ Cho dù bạn có biết gì về kỹ thuật hay tâm lý học khách hàng k
 
 Nếu bạn không có tiền cứ yên tâm, cuộc sống luôn có cách giúp bạn. 
 
-Chẳng hạn, làm phục vụ cà phê vài tuần, vay mượn bạn bè ("ê tao có một project này đầu tư này sẽ sinh lời to vl"), hoặc chờ Tết lấy tiền lì xì. 
+Chẳng hạn, làm phục vụ cà phê vài tuần, vay mượn bạn bè ("ê tao có một project này đầu tư này sẽ sinh lời to vl, m hùng vốn đi"), hoặc chờ Tết lấy tiền lì xì. 
 
 Tiền điện cho máy thì nếu bạn có hiếu, cứ trích 1 triệu tiền lời ra trả tiền điện mỗi tháng, hoặc là bào của phụ huynh bạn, hoặc là có năng lượng mặt trời thì khoẻ.
 
@@ -33,11 +33,11 @@ Còn nếu bạn định chọn phương án đi xin hay ăn trộm… thì, ừ
 
 ### 2. Mua Node
 
-Bạn có nghĩ rằng những hosting lớn như DPT, Gachcloud, Pikamc v.v dùng máy móc gì đắt đỏ?
+Bạn có nghĩ rằng những hosting lớn như DPT, Gachcloud, Asaka, v.v dùng máy móc gì đắt đỏ?
 
 Không đâu, do không biết tiết kiệm thôi. Bạn có thể đạt được hiệu năng “gần như thế” với mấy combo X99 trên Shopee.
 
-Chỉ cần bỏ ra khoảng 1tr2 để mua một combo mainboard “huyền thoại”, thêm RAM, tản nhiệt và ổ cứng cũ. Nhớ chọn nguồn PSU mà các bài review gọi là “sống dai như đỉa,” vì nó không chết ngay cả khi quá tải gấp đôi công suất.
+Chỉ cần bỏ ra khoảng 1tr2 để mua một combo main chip ram huyền thoại, thêm RAM, tản nhiệt và ổ cứng cũ. Nhớ chọn nguồn PSU mà các bài review gọi là “sống dai như đỉa,” vì nó không chết ngay cả khi quá tải gấp đôi công suất.
 
 Quan trọng nhất là càng nhiều RAM càng tốt, lùa nhiều gà hơn tiền dễ bỏ túi hơn.
 
@@ -47,9 +47,9 @@ Bất kể bạn không biết gì về lắp ráp, chỉ cần mở YouTube -> 
 
 
 ### 3. Setup
-Đừng để cụm từ “setup hosting” làm bạn sợ teo hòn. Hãy nhớ rằng bất kỳ ai biết cách cài win đều có thể làm được điều này.  
+Đừng để cụm từ “setup hosting” làm bạn sợ teo hòn. Hãy nhớ rằng bất kỳ ai biết cách cài win và **không có vấn đề đọc hiểu** đều có thể làm được điều này.  
 
-- **Lắp máy**: Theo hướng dẫn trên mạng, cố gắng không lắp sai nguồn để tránh thành 1 trong những vụ cháy nhà hoặc cháy chung cư.
+- **Lắp máy**: Theo hướng dẫn trên mạng, cố gắng không lắp sai nguồn kẻo mai được lên báo.
 - **Cài hệ điều hành**: Ubuntu, Debian? Dễ vl nếu bạn không thấy tiếng Anh là trở ngại.  
 - **Cài Pterodactyl**: Trang chủ của họ có hướng dẫn đầy đủ. Đọc không hiểu thì copy-paste từng dòng lệnh là xong. 
 - **Mở port**: Bạn sẽ thấy cụm từ này xuất hiện trong mọi hướng dẫn. Nếu không hiểu, cứ dùng ChatGPT, nó không tính phí  
@@ -66,7 +66,7 @@ Hãy nhớ rằng không ai biết bạn là ai, nên nhiệm vụ của bạn l
 - Đừng quên thêm vào lời kêu gọi hấp dẫn kiểu: “Giảm giá 50% cho 10 khách đầu tiên” – tất nhiên là chẳng ai thèm kiểm tra xem bạn có thật sự giảm không. 
 - Acc clone + bạn bè giả làm khách hàng để comment kiểu: “Dùng tốt lắm nha!” hoặc “Ổn định, đáng tiền.” 
 
-Bảo đảm tăng uy tín cực nhanh
+Bảo đảm tăng uy tín cực nhanh.
 
 
 
@@ -78,13 +78,14 @@ Làm hosting không chỉ cần kỹ năng mà còn cần độ lì. Khi bạn b
 
 Tất nhiên, không ai trong cộng đồng Minecraft Việt Nam sẽ dễ dàng chấp nhận bạn nếu bạn không biết cách đối mặt với những chỉ trích. 
 
-Bạn sẽ bị chửi bới từ những người chơi giàu kinh nghiệm, từ những thành phần từ cộng đồng HVMCloud đến những bố tổ của Mojang. 
+Bạn sẽ bị chửi bới từ những người chơi giàu kinh nghiệm, từ những thành phần từ cộng đồng HVMCloud đến những thành phần bố tổ của Mojang. 
 
-Nhưng đời chớ ai lo, mặt dày là một đức tính tuyệt vời trong ngành này. Bạn chỉ cần tiếp tục bán host, ai chửi kệ nó, và nhớ rằng nếu ai đó không hài lòng với bạn, thì đó chỉ là do họ "chưa hiểu" về cái gọi là "thương mại". 
+Nhưng đời chớ ai lo, mặt dày là một đức tính tuyệt vời trong ngành này. Bạn chỉ cần tiếp tục bán, ai chửi kệ cha nó, và nhớ rằng nếu ai đó không hài lòng với bạn, thì đó chỉ là do họ "chưa hiểu" về cái gọi là "thương mại". 
 
 Câu trả lời "tuyệt chiêu" dành cho mọi khiếu nại là:  
-- “Do khách tự làm lỗi.”  
-- “Server mạnh vậy mà vẫn lag, chắc do nhà mạng của bạn.”  
+- “Do khách tự làm lỗi.”
+- "Cái này ko phải do host nhé"
+- “Lag spike do nhà mạng á bạn, bên mình mạng bình thường.”  
 - “Bạn đừng lo, bọn mình sẽ khắc phục trong thời gian sớm nhất.” (Nhưng tất nhiên là kệ cha nó, sửa làm méo gì).  
 
 Cứ làm đi, miễn sao tiền vào túi bạn là được..!
@@ -111,4 +112,5 @@ Cuối cùng, nếu bạn nghĩ rằng mở hosting cần phải có uy tín, đ
 
 
 
-*Chúc bạn “thành công” trên con đường mở hosting Minecraft. Nhưng nhớ rằng, thành công chỉ đến với những ai đủ lì lợm, mặt dày và không quan tâm đến mấy thứ như đạo đức hay uy tín. Còn nếu bạn nghiêm túc hoá bài viết này, thì có lẽ bạn chính là đối tượng mà tôi vừa nhắc.*
+*Chúc bạn “thành công” trên con đường mở hosting Minecraft. Nhưng nhớ rằng, thành công chỉ đến với những ai đủ lì lợm, mặt dày và không quan tâm đến mấy thứ như đạo đức hay uy tín. Nếu bạn nghiêm túc hoá bài viết này, thì có lẽ bạn chính là đối tượng mà tôi vừa nhắc.*
+
