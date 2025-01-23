@@ -14,13 +14,13 @@ layout: page
 
 
 
-Chắc hẳn bạn đang nghĩ rằng việc mở một hosting Minecraft ở Việt Nam sẽ là một cơ hội vàng để trở thành triệu phú trong nháy mắt? Đừng lo, tôi sẽ chỉ cho bạn cách để bắt đầu hành trình này.
+Chắc hẳn bạn đang nghĩ rằng việc mở một hosting Minecraft ở Việt Nam sẽ là một cơ hội vàng để thành 1 người dư dả? Đừng lo, tôi sẽ chỉ cho bạn cách để bắt đầu hành trình này.
 
-Cho dù bạn có biết gì về kỹ thuật hay tâm lý học khách hàng không, tất cả những gì bạn cần là một chút tiền, một ít sự mặt dày, và thậm chí là một chút nghệ thuật lùa gà – bạn sẽ thành công.
+Cho dù bạn có biết gì về kỹ thuật hay tâm lý học khách hàng không, tất cả những gì bạn cần là một chút tiền, sự mặt dày, và thậm chí là một chút nghệ thuật lùa gà – bạn sẽ thành công.
 
 
 ### 1. Chuẩn Bị Tiền
-Đừng nghĩ rằng mở hosting cần vốn đầu tư lớn. Ai bảo bạn phải có dàn máy chủ trăm triệu hay thuê hạ tầng hiện đại làm gì? Chỉ với khoảng 2 triệu rưỡi – bằng một đôi giày sneaker fake là bạn đã có thể khởi nghiệp.  
+Đừng nghĩ rằng mở hosting cần vốn đầu tư lớn. Ai bảo bạn phải có dàn máy chủ trăm triệu hay thuê hạ tầng datacenter làm gì? Chỉ với khoảng 2 triệu rưỡi – bằng một đôi giày sneaker fake là bạn đã có thể khởi nghiệp.  
 
 Nếu bạn không có tiền cứ yên tâm, cuộc sống luôn có cách giúp bạn. 
 
@@ -35,7 +35,7 @@ Còn nếu bạn định chọn phương án đi xin hay ăn trộm… thì, ừ
 
 Bạn có nghĩ rằng những hosting lớn như DPT, Gachcloud, Asaka, v.v dùng máy móc gì đắt đỏ?
 
-Không đâu, do không biết tiết kiệm thôi. Bạn có thể đạt được hiệu năng “gần như thế” với mấy combo X99 trên Shopee.
+Không đâu, do không biết tiết kiệm thôi. Bạn có thể đạt được hiệu năng “gần như thế” với mấy combo X99 trên Shopee (và đặt ở nhà thay vì đem lên DC).
 
 Chỉ cần bỏ ra khoảng 1tr2 để mua một combo main chip ram huyền thoại, thêm RAM, tản nhiệt và ổ cứng cũ. Nhớ chọn nguồn PSU mà các bài review gọi là “sống dai như đỉa,” vì nó không chết ngay cả khi quá tải gấp đôi công suất.
 
@@ -60,11 +60,11 @@ Bất kể bạn không biết gì về lắp ráp, chỉ cần mở YouTube -> 
 ### 4. Quảng Cáo
 Bạn nghĩ rằng khách hàng sẽ tự tìm đến bạn vì bạn mở hosting à? Đéo.
 
-Hãy nhớ rằng không ai biết bạn là ai, nên nhiệm vụ của bạn là spam thật nhiều.  
+Hãy nhớ rằng không ai biết bạn là ai, nên nhiệm vụ của bạn là spam quảng cáo thật nhiều.
 
-- Tham gia mọi group Minecraft và post bài “Dịch vụ hosting giá rẻ nhất Việt Nam – chỉ từ 10k/tháng!”  
+- Tham gia mọi group Minecraft và post bài “Dịch vụ hosting giá rẻ nhất Việt Nam – chỉ từ 20k/tháng!”  
 - Đừng quên thêm vào lời kêu gọi hấp dẫn kiểu: “Giảm giá 50% cho 10 khách đầu tiên” – tất nhiên là chẳng ai thèm kiểm tra xem bạn có thật sự giảm không. 
-- Acc clone + bạn bè giả làm khách hàng để comment kiểu: “Dùng tốt lắm nha!” hoặc “Ổn định, đáng tiền.” 
+- Acc clone + bạn bè giả làm khách hàng để comment kiểu: “Dùng tốt lắm nha!”, "host xịn" hoặc “Ổn định, đáng tiền.” 
 
 Bảo đảm tăng uy tín cực nhanh.
 
